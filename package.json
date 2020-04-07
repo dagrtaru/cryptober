@@ -1,0 +1,19 @@
+{
+  "name": "cryptober",
+  "version": "1.0.0",
+  "description": "CLI Cryptocurrency Client",
+  "main": "index.js",
+  "bin": "./bin/cryptober.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arunarka Mukhopadhyay",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.1.0"
+  }
+}
