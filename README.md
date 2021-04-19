@@ -1,2 +1,2 @@
 # cryptober
-CLI client for Cryptocurrency prices
+CLI client for Cryptocurrency prices using Nomics API
